@@ -1,16 +1,17 @@
 import React from 'react'
 
 import BeerDetails from './beer-details'
-import Beers from '../../data/beers.json'
+
+import { beers } from './data/beers.json'
 
 const Beer = (props) => {
     const { match } = props
+    const id = match.params.id
+    const beer = beers.find((beer) => beer.id === id)
     return (
         <div className="main container">
-          <h3 className="title">{name}</h3>
-          <BeerDetails name={name} number={id} image={image}>
-              {description}
-          </BeerDetails>
+          <h4 className="title">{beer.name}</h4>
+          <BeerDetails {...beer} description={require('raw-loader!./data/' + beer.description)}/>
         </div>
     )
 }

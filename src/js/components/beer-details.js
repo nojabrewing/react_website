@@ -16,28 +16,26 @@ class BeerDetails extends Component {
          <div className="beer_list_item" id={this.props.name.replace(' ', '_')}>
            <div className="beer_list_item_container">
              <div className="beer_list_item_icon_container">
-               <img className="beer_list_item_icon" src={this.props.image}/>
+               <img className="beer_list_item_icon" src={'../images/' + this.props.image}/>
                <ul className="beer_list_item_stats bold">
                 <li>
-                  ABV: 6.7%
+                  ABV: {this.props.details.abv}
                 </li>
                 <li>
-                  OG: 1.055
+                  OG: {this.props.details.og}
                 </li>
                 <li>
-                  IBU: 30
+                  IBU: {this.props.details.ibu}
                 </li>
                 <li>
-                  FG: 1.007
+                  FG: {this.props.details.fg}
                 </li>
                </ul>
              </div>
              <div className="beer_list_item_text_container">
-               <h4 className="beer_list_item_title">{this.props.name}<span className="right-aligned">#{this.props.number}</span></h4>
                <p className={
-                 "beer_list_item_description " + this.state.descriptionModifier } ref={(elem) => this.description = elem}>
-                 {this.props.children}
-               </p>
+                 "beer_list_item_description " + this.state.descriptionModifier } ref={(elem) => this.description = elem}
+                 dangerouslySetInnerHTML={{__html:this.props.description}}/>
                {
                  this.state.descriptionModifier !== null
                  ? <div className='less_more_button' onClick={this.toggleDescription}>{'\u2026' + this.state.descriptionModifier}</div>

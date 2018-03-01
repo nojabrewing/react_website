@@ -1,0 +1,28 @@
+{
+  "beers": [
+    {
+      "id": "14",
+      "name": "Caution Weka!",
+      "image": "caution_weka.png",
+      "details": {
+        "abv": "6.7%",
+        "ibu": "30",
+        "og": "1.055",
+        "fg": "1.007"
+      },
+      "description": "description14.txt"
+    },
+    {
+      "id": "13",
+      "name": "The Juicy Void",
+      "image": "the_juicy_void.png",
+      "details": {
+        "abv": "<1.0%",
+        "ibu": "40",
+        "og": "1.040",
+        "fg": "1.010"
+      },
+      "description": "description13.txt"
+    }
+  ]
+}
