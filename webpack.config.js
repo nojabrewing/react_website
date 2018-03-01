@@ -26,6 +26,15 @@ module.exports = {
         },
       },
       {
+        test: /\.(json)$/,
+        loader: "file-loader",
+        options: {
+            name: "[name].[ext]",
+            outputPath: "data/",
+            publicPath: "./data/"
+        },
+      },
+      {
         test: /\.(png|jp(e*)g|svg)$/,
         use: [
           {
@@ -36,9 +45,10 @@ module.exports = {
               publicPath: "./images/"
             }
           },
-          {
+          /*{
             loader: 'image-webpack-loader',
           },
+          */
         ]
       }
     ]
