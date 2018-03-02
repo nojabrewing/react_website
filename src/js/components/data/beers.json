@@ -4,25 +4,53 @@
       "id": "14",
       "name": "Caution Weka!",
       "image": "caution_weka.png",
+      "preview": "caution_weka_preview.png",
       "details": {
         "abv": "6.7%",
         "ibu": "30",
         "og": "1.055",
         "fg": "1.007"
       },
-      "description": "description14.txt"
+      "description": "description_14.txt"
     },
     {
       "id": "13",
       "name": "The Juicy Void",
       "image": "the_juicy_void.png",
+      "preview": "the_juicy_void_preview.png",
       "details": {
         "abv": "<1.0%",
         "ibu": "40",
         "og": "1.040",
         "fg": "1.010"
       },
-      "description": "description13.txt"
+      "description": "description_13.txt"
+    },
+    {
+      "id": "12",
+      "name": "Shut Up About IPA",
+      "image": "shut_up_about_ipa.png",
+      "preview": "shut_up_about_ipa_preview.png",
+      "details": {
+        "abv": "6.3%",
+        "ibu": "60",
+        "og": "1.060",
+        "fg": "1.014"
+      },
+      "description": "description_13.txt"
+    },
+    {
+      "id": "11",
+      "name": "Ryeturn of the Orange King",
+      "image": "ryeturn_of_the_orange_king.png",
+      "preview": "ryeturn_of_the_orange_king_preview.png",
+      "details": {
+        "abv": "6.6%",
+        "ibu": "25",
+        "og": "1.053",
+        "fg": "1.006"
+      },
+      "description": "description_13.txt"
     }
   ]
 }

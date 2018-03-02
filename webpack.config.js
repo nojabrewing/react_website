@@ -36,10 +36,9 @@ module.exports = {
               publicPath: "./images/"
             }
           },
-          /*{
+          {
             loader: 'image-webpack-loader',
           },
-          */
         ]
       }
     ]

@@ -10,7 +10,7 @@ const Beer = (props) => {
     const beer = beers.find((beer) => beer.id === id)
     return (
         <div className="main container">
-          <h4 className="title">{beer.name}</h4>
+          <h3 className="title">{beer.name}</h3>
           <BeerDetails {...beer} description={require('raw-loader!./data/' + beer.description)}/>
         </div>
     )

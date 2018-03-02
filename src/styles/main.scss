@@ -44,29 +44,30 @@ html, body {
 }
 
 body {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 0;
+  padding-bottom: 0;
   font-family: $sans-serif-font;
 }
 
 h1, .h1, h2, .h2, h3, .h3 {
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin-top: 0;
+    margin-bottom: 0;
     font-family: $sans-serif-bold-font;
 }
 
 h4, .h4, h5, .h5, h6, .h6 {
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin-top: 0;
+    margin-bottom: 0;
     font-family: $sans-serif-bold-font;
 }
 
 p {
-  margin: 10px 0px 0px 0px;
+  margin: 10px 0 0 0;
 }
 
 a, a:hover, a:active, a:visited {
   color: #000;
+  text-decoration: none;
 }
 
 .bold {
@@ -79,8 +80,16 @@ a, a:hover, a:active, a:visited {
 }
 
 .footer {
-  padding-left: 15px;
-  padding-right: 15px;
+  margin-top: 15px;
+  padding: 15px 30px;
+  color: #000;
+  background-color: #fff;
+  border-top: 1px solid #e5e5e5;
+
+  p {
+      margin: 0;
+      font-family: $sans-serif-bold-font;
+  }
 }
 
 .header {
@@ -126,12 +135,12 @@ h3.sub_header_text {
 }
 
 .main {
-  margin-top: 15px;
+  margin-top: 0;
   border-top: 1px solid #e5e5e5;
   background-color: #fff;
 
   .title {
-    margin-top: 15px;
+    margin-top: 30px;
   }
 
   h3 {
@@ -150,6 +159,7 @@ h3.sub_header_text {
 
 .nav {
   margin-top: 15px;
+  margin-bottom: 15px;
   background-color: #fff;
   list-style: none;
 }
@@ -168,7 +178,7 @@ h3.sub_header_text {
 }
 
 .nav_list {
-  padding: 15px 0;
+  padding: 7.5px 0;
   margin: 0 auto;
   display: table;
   table-layout: fixed;
@@ -176,17 +186,20 @@ h3.sub_header_text {
 
 .nav_item {
   text-align: center;
-  padding: 0 15px;
+  padding: 7.5px 15px 7.5px 15px;
   display: block;
   text-indent: 0;
 }
 
 .section {
+  padding-top: 30px;
   h3 {
+    padding-bottom: 15px;
     font-size: 1.5em;
   }
 
   h4 {
+    padding-bottom: 15px;
     font-size: 1.25em;
   }
 
@@ -212,7 +225,8 @@ h3.sub_header_text {
 }
 
 .beer_preview_item {
-  margin-top: 15px;
+  margin-top: 30px;
+  margin-bottom: 0;
 }
 
 .beer_preview_item_image {
@@ -221,20 +235,21 @@ h3.sub_header_text {
 }
 
 .beer_preview_item_title {
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   border-bottom: 1px solid black;
 }
 
 .beer_list {
-  padding-left: 0px;
-  padding-right: 0px;
-  text-indent: 0px;
+  padding-left: 0;
+  padding-right: 0;
+  text-indent: 0;
   list-style-type: none;
 }
 
 .beer_list_item_container {
   width: 100%;
+  margin-top: 15px;
   overflow: auto;
 
   img {
@@ -244,14 +259,14 @@ h3.sub_header_text {
 }
 
 .beer_list_item_icon_container {
-  padding: 15px 15px 0px 0px;
+  padding: 15px 15px 0 0;
   float: left;
   position: relative;
   width: 25%;
 }
 
 .beer_list_item_text_container {
-  padding: 15px 0px 0px 0px;
+  padding: 15px 0 0 0;
   float: left;
   position: relative;
   width: 75%;
@@ -260,18 +275,20 @@ h3.sub_header_text {
 .beer_list_item_stats {
   padding-left: 0;
   padding-right: 0;
-  margin-top: 5px;
+  margin-bottom: 0;
   text-indent: 0;
   list-style-type: none;
 }
 
 .beer_list_item_stats > li {
   width: 50%;
+  margin-top: 7.5px;
   display: inline-block;
   text-align: left;
 }
 
 .beer_list_item_description {
+  margin: 0;
   overflow: hidden;
 }
 
@@ -309,13 +326,6 @@ h3.sub_header_text {
   float: right;
 }
 
-.footer {
-  margin-top: 15px;
-  color: #000;
-  background-color: #fff;
-  border-top: 1px solid #e5e5e5;
-}
-
 .header {
   padding: 30px;
 }
@@ -324,11 +334,7 @@ h3.sub_header_text {
   padding: 15px 30px 30px;
 }
 
-.footer {
-  padding: 15px 30px 30px;
-}
-
-@media screen and (min-width: 0px) {
+@media screen and (min-width: 0) {
   html, body {
     background: #fff;
   }
@@ -353,27 +359,27 @@ h3.sub_header_text {
   }
 
   .beer_list_item_icon_container {
-    padding: 15px 0px 0px 0px;
+    padding: 15px 0 0 0;
     float: none;
     width: 100%;
   }
 
   .beer_list_item_text_container {
-    padding: 15px 0px 0px 0px;
+    padding: 15px 0 0 0;
     float: left;
     width: 100%;
   }
 
   .header {
-    padding: 0px 15px;
+    padding: 0 15px;
   }
 
   .main {
-    padding: 0px 15px;
+    padding: 0 15px 15px 15px;
   }
 
   .footer {
-    padding: 0px 15px;
+    padding: 15px 15px 0 15px;
   }
 }
 
@@ -387,14 +393,14 @@ h3.sub_header_text {
   }
 
   .beer_list_item_icon_container {
-    padding: 15px 15px 0px 0px;
+    padding: 15px 15px 0 0;
     float: left;
     position: relative;
     width: 45%;
   }
 
   .beer_list_item_text_container {
-    padding: 15px 0px 0px 0px;
+    padding: 15px 0 0 0;
     float: left;
     position: relative;
     width: 55%;
@@ -433,7 +439,8 @@ h3.sub_header_text {
   }
 
   .main {
-    padding: 0 30px 30px 30px;
+    margin-top: 15px;
+    padding: 0 30px 30px;
   }
 
   .nav_toggle {
@@ -451,17 +458,13 @@ h3.sub_header_text {
 
   .nav_item {
     text-align: left;
-    padding: 15px;
-    display: inline;
+    padding-top: 7.5px;
+    display: inline-block;
     font-family: "OpenSansBold", Helvetica, Arial, sans-serif;
   }
 
   .footer {
-    padding: 15px 30px 30px;
-  }
-
-  .section {
-    padding-top: 15px;
+    padding: 15px 30px;
   }
 }
 

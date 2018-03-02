@@ -2,6 +2,7 @@ import React from 'react'
 
 import { BrowserRouter as Router, Route, Redirect, Switch } from 'react-router-dom'
 import Header from '../components/header'
+import Footer from '../components/footer'
 import Home from '../components/home'
 import Nav from '../components/nav'
 import Beer from '../components/beer'
@@ -20,6 +21,7 @@ const RootContainer = () => {
               <Route path='/about' component={About}/>
               <Redirect to='/'/>
             </Switch>
+            <Footer/>
         </div>
     )
 }

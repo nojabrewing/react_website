@@ -12,7 +12,7 @@ const BeerList = () => {
             {
               beers.map((beer) => {
                 return (
-                  <BeerPreviewItem key={beer.id} id={beer.id} name={beer.name} image={beer.image}/>
+                  <BeerPreviewItem key={beer.id} id={beer.id} name={beer.name} image={beer.preview}/>
                 )
               })
             }
