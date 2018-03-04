@@ -14,23 +14,23 @@ class Nav extends Component {
       return (
           <div className="nav container">
               <div className="nav_toggle container bold" onClick={this.toggleNav}>
-                Menu
+                MENU
               </div>
               <div className={"nav_bar container" + (this.state.collapsed ? ' collapsed' : '')}>
                 <ul className="nav_list">
                   <li className="nav_item">
                     <Link to='/'>
-                      Home
+                      HOME
                     </Link>
                   </li>
                   <li className="nav_item">
                     <Link to='/beers'>
-                      Beers
+                      BEERS
                     </Link>
                   </li>
                   <li className="nav_item">
                     <Link to='/about'>
-                      About
+                      ABOUT
                     </Link>
                   </li>
                 </ul>

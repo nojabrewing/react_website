@@ -1,6 +1,19 @@
 {
   "beers": [
     {
+      "id": "15",
+      "name": "Missing Tiles",
+      "image": "missing_tiles.png",
+      "preview": "missing_tiles_preview.png",
+      "details": {
+        "abv": "7.2%",
+        "ibu": "55",
+        "og": "1.065",
+        "fg": "1.012"
+      },
+      "description": "description_15.txt"
+    },
+    {
       "id": "14",
       "name": "Caution Weka!",
       "image": "caution_weka.png",
@@ -37,7 +50,7 @@
         "og": "1.060",
         "fg": "1.014"
       },
-      "description": "description_13.txt"
+      "description": "description_12.txt"
     },
     {
       "id": "11",
@@ -50,7 +63,72 @@
         "og": "1.053",
         "fg": "1.006"
       },
-      "description": "description_13.txt"
+      "description": "description_11.txt"
+    },
+    {
+      "id": "10",
+      "name": "La Saison du Smash",
+      "image": "la_saison_du_smash.png",
+      "preview": "la_saison_du_smash_preview.png",
+      "details": {
+        "abv": "4.3%",
+        "ibu": "20",
+        "og": "1.037",
+        "fg": "1.004"
+      },
+      "description": "description_10.txt"
+    },
+    {
+      "id": "9_5",
+      "name": "The Blonde Rhubarbarian",
+      "image": "the_blonde_rhubarbarian.png",
+      "preview": "the_blonde_rhubarbarian_preview.png",
+      "details": {
+        "abv": "3.2%",
+        "ibu": "20",
+        "og": "1.038",
+        "fg": "1.013"
+      },
+      "description": "description_9_5.txt"
+    },
+    {
+      "id": "9",
+      "name": "Campfire Smoke",
+      "image": "campfire_smoke.png",
+      "preview": "campfire_smoke_preview.png",
+      "details": {
+        "abv": "4.0%",
+        "ibu": "40",
+        "og": "1.041",
+        "fg": "1.010"
+      },
+      "description": "description_9.txt"
+    },
+    {
+      "id": "8",
+      "name": "Schwarz Weisse",
+      "image": "schwarz_weisse.png",
+      "preview": "schwarz_weisse_preview.png",
+      "details": {
+        "abv": "4.1%",
+        "ibu": "5",
+        "og": "1.037",
+        "fg": "1.005"
+      },
+      "description": "description_8.txt"
+    },
+    {
+      "id": "7",
+      "name": "ESBrewnein Sounds Better",
+      "image": "esbrewnein_sounds_better.png",
+      "preview": "esbrewnein_sounds_better_preview.png",
+      "details": {
+        "abv": "6.2%",
+        "ibu": "40",
+        "og": "1.060",
+        "fg": "1.012"
+      },
+      "description": "description_7.txt"
     }
   ]
 }
