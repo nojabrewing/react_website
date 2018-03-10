@@ -3,6 +3,7 @@
     {
       "id": "15",
       "name": "Missing Tiles",
+      "category": "India Pale Ale",
       "image": "missing_tiles.png",
       "preview": "missing_tiles_preview.png",
       "details": {
@@ -16,6 +17,7 @@
     {
       "id": "14",
       "name": "Caution Weka!",
+      "category": "Dry-hopped Saison",
       "image": "caution_weka.png",
       "preview": "caution_weka_preview.png",
       "details": {
@@ -29,6 +31,7 @@
     {
       "id": "13",
       "name": "The Juicy Void",
+      "category": "Ultra-low ABV IPA",
       "image": "the_juicy_void.png",
       "preview": "the_juicy_void_preview.png",
       "details": {
@@ -42,6 +45,7 @@
     {
       "id": "12",
       "name": "Shut Up About IPA",
+      "category": "Export India Porter",
       "image": "shut_up_about_ipa.png",
       "preview": "shut_up_about_ipa_preview.png",
       "details": {
@@ -55,6 +59,7 @@
     {
       "id": "11",
       "name": "Ryeturn of the Orange King",
+      "category": "Pumpkin Rye Saison",
       "image": "ryeturn_of_the_orange_king.png",
       "preview": "ryeturn_of_the_orange_king_preview.png",
       "details": {
@@ -68,6 +73,7 @@
     {
       "id": "10",
       "name": "La Saison du Smash",
+      "category": "Table Saison",
       "image": "la_saison_du_smash.png",
       "preview": "la_saison_du_smash_preview.png",
       "details": {
@@ -80,7 +86,8 @@
     },
     {
       "id": "9_5",
-      "name": "The Blonde Rhubarbarian",
+      "name": "The Blonde Rhubar\u00ADbarian",
+      "category": "Rhubarb Session Blonde Ale",
       "image": "the_blonde_rhubarbarian.png",
       "preview": "the_blonde_rhubarbarian_preview.png",
       "details": {
@@ -93,7 +100,8 @@
     },
     {
       "id": "9",
-      "name": "Campfire Smoke",
+      "name": "Camp\u00ADfire Smoke",
+      "category": "Smoked American Wheat Ale",
       "image": "campfire_smoke.png",
       "preview": "campfire_smoke_preview.png",
       "details": {
@@ -107,6 +115,7 @@
     {
       "id": "8",
       "name": "Schwarz Weisse",
+      "category": "Black Berlin Sour Ale",
       "image": "schwarz_weisse.png",
       "preview": "schwarz_weisse_preview.png",
       "details": {
@@ -119,7 +128,8 @@
     },
     {
       "id": "7",
-      "name": "ESBrewnein Sounds Better",
+      "name": "ESBrew\u00ADnein Sounds Better",
+      "category": "Extra Special Bitter",
       "image": "esbrewnein_sounds_better.png",
       "preview": "esbrewnein_sounds_better_preview.png",
       "details": {

@@ -7,8 +7,7 @@ import { beers } from './data/beers.json'
 const BeerList = () => {
     return (
         <div className="main container">
-          <h3 className="title">The Brews</h3>
-          <div className="row">
+          <div className="beer_list row">
             {
               beers.map((beer) => {
                 return (
