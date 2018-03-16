@@ -139,6 +139,90 @@
         "fg": "1.012"
       },
       "description": "description_7.txt"
+    },
+    {
+      "id": "6",
+      "name": "New World, Olde Ale",
+      "category": "American Barleywine",
+      "image": "new_world_olde_ale.png",
+      "preview": "new_world_olde_ale_preview.png",
+      "details": {
+        "abv": "11.2%",
+        "ibu": "100",
+        "og": "1.105",
+        "fg": "1.019"
+      },
+      "description": "description_6.txt"
+    },
+    {
+      "id": "5",
+      "name": "Beet it, Bloody Pumpkin",
+      "category": "Beet Root & Pumpkin Ale",
+      "image": "beet_it_bloody_pumpkin.png",
+      "preview": "beet_it_bloody_pumpkin_preview.png",
+      "details": {
+        "abv": "4.9%",
+        "ibu": "45",
+        "og": "1.048",
+        "fg": "1.012"
+      },
+      "description": "description_5.txt"
+    },
+    {
+      "id": "4",
+      "name": "Melon Catcher in the Dark",
+      "category": "Cascdian Dark Rye Ale",
+      "image": "melon_catcher_in_the_dark.png",
+      "preview": "melon_catcher_in_the_dark_preview.png",
+      "details": {
+        "abv": "4.9%",
+        "ibu": "55",
+        "og": "1.048",
+        "fg": "1.012"
+      },
+      "description": "description_4.txt"
+    },
+    {
+      "id": "3",
+      "name": "C'mon Cali",
+      "category": "California Common",
+      "image": "cmon_cali.png",
+      "preview": "cmon_cali_preview.png",
+      "details": {
+        "abv": "4.5%",
+        "ibu": "35",
+        "og": "1.044",
+        "fg": "1.011"
+      },
+      "description": "description_3.txt"
+    },
+    {
+      "id": "2",
+      "name": "Umbus Rillo Num",
+      "category": "American Pale Ale",
+      "image": "umbus_rillo_num.png",
+      "preview": "umbus_rillo_num_preview.png",
+      "details": {
+        "abv": "5.5%",
+        "ibu": "55",
+        "og": "1.048",
+        "fg": "1.010"
+      },
+      "description": "description_2.txt"
+    },
+    {
+      "id": "1",
+      "name": "Hop Two For Three",
+      "category": "Dark Amber Ale",
+      "image": "hop_two_four_three.png",
+      "preview": "hop_two_four_three_preview.png",
+      "details": {
+        "abv": "4.9%",
+        "ibu": "65",
+        "og": "1.048",
+        "fg": "1.012"
+      },
+      "description": "description_1.txt"
     }
   ]
 }
