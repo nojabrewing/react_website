@@ -1,16 +1,13 @@
-My first brew in 2016 was an Extra Strong Bitter with a traditional English ale yeast (WLP002).
-I wanted to have a nice malty ale, so I chose Maris Otter as the base malt for lots of biscuity flavor
-supported by some medium crystal, a bit of very dark crystal, and a tiny bit of black malt.
-For hopping I used only East Kent Goldings to get a typical English bittering character. To get as
-much hop flavor as possible without being too bitter, I used a combination of first wort hopping and
-whirlpooling with a target of 40 IBU.<br/>
-The fermentation was quite vigorous for the first couple of days and brought the OG of 1.059 to an FG
-of 1.012 after two weeks in the primary, which ended up in 6% ABV and was exactly what I wanted.
-However, bottling with the ESB yeast can be a nightmare. In some cases, the yeast woke up during bottling
-and started fermenting again which led to some overcarbonated bottles. This is probably due to the super
-high flocculation characteristics of this yeast. For the next beer with the ESB yeast, I have to rouse it
-regularly and maybe even use a second, less flocculating yeast in the secondary fermentation to clean up
-properly before bottling.<br/>
-The beer has a great malty and also quite fruity flavor with some earthiness and a little bit of honey from
-the hops. The bitterness is very smooth and feels more like 30 than 40 IBU. The first wort hopping really
-worked for me in this beer.
+Although the name maybe suggests an Old Ale, brew #6 is an American barleywine hopped only
+with Simcoe&reg; hops. I wanted to see if I can manage to brew a barleywine with my system and
+my brewing techniques. Since I read that the mash efficiency is relatively low for big beers,
+I used 9.5 kilograms of malt for 15 liters with a target of roughly 10% ABV and 100 IBU. The malt bill
+consisted of 94% pale ale malt, 3% CaraAmber, and 3% CaraMunich II.
+For fermentation I used most of the WLP001 yeast cake from brew #5. The beer went from 1.105
+to 1.020 which leads to roughly 11% ABV. Hence, mission accomplished.<br/>
+After the primary fermentation was over, the beer went into secondary for one month of conditioning.
+I had a first try after additional 3 months of bottle conditioning. At first it was pretty
+overwhelming because 11% ABV in a beer is a lot. Due to the high attenuation the
+beer is not really sweet and that is good. So far, it has a very nice malty taste with the hops struggling
+a bit to hold up against the alcohol. I will let it mellow out for another 3 or 6 months
+and try it again.

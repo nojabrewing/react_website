@@ -10,13 +10,13 @@ const Header = () => {
         <div className="header container">
           <div className="row">
             <div className="col-xs-12 order-xs-first order-sm-2 offset-sm-1 col-sm-1">
-              <a className="social_link" href="https://www.facebook.com/people/Yesbrewnein-Homebrewing/100009930556750" target="_blank">
+              <a className="social_link" href="https://www.facebook.com/yesbrewnein" target="_blank">
                 <img className="social_icon" src={fb_icon}/>
               </a>
               <a className="social_link" href="https://www.instagram.com/yesbrewnein/" target="_blank">
                 <img className="social_icon" src={ig_icon}/>
               </a>
-              <a className="social_link" href="https://untappd.com/yesBREWnein" target="_blank">
+              <a className="social_link" href="https://untappd.com/yesbrewnein" target="_blank">
                 <img className="social_icon" src={untappd_icon}/>
               </a>
             </div>

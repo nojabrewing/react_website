@@ -1,16 +1,9 @@
-My first brew in 2016 was an Extra Strong Bitter with a traditional English ale yeast (WLP002).
-I wanted to have a nice malty ale, so I chose Maris Otter as the base malt for lots of biscuity flavor
-supported by some medium crystal, a bit of very dark crystal, and a tiny bit of black malt.
-For hopping I used only East Kent Goldings to get a typical English bittering character. To get as
-much hop flavor as possible without being too bitter, I used a combination of first wort hopping and
-whirlpooling with a target of 40 IBU.<br/>
-The fermentation was quite vigorous for the first couple of days and brought the OG of 1.059 to an FG
-of 1.012 after two weeks in the primary, which ended up in 6% ABV and was exactly what I wanted.
-However, bottling with the ESB yeast can be a nightmare. In some cases, the yeast woke up during bottling
-and started fermenting again which led to some overcarbonated bottles. This is probably due to the super
-high flocculation characteristics of this yeast. For the next beer with the ESB yeast, I have to rouse it
-regularly and maybe even use a second, less flocculating yeast in the secondary fermentation to clean up
-properly before bottling.<br/>
-The beer has a great malty and also quite fruity flavor with some earthiness and a little bit of honey from
-the hops. The bitterness is very smooth and feels more like 30 than 40 IBU. The first wort hopping really
-worked for me in this beer.
+Brew #1 was all extract. Brew #2 was extract with grains. So, brew #3 had to be all-grain
+to follow the scheme. After brewing two ales, I also wanted to make a lager. California
+Common was the obvious choice as I can ferment it at nearly room temperature. Following this
+simple beer style, I used 90% pale ale malt and 10% medium caramel malt. The hopping was done
+using only German Northern Brewer with a target of 35 IBU. For fermentation I made a starter from
+a pack of Wyeast 2112.<br/>
+Brew #3 turned out to be a reddish copper colored, malty, and moderately hopped lager with
+a slightly fruity aroma. Building up carbonation took a lot of time, but after around two
+months, the mouthfeel was great.
