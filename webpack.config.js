@@ -48,6 +48,7 @@ module.exports = {
   },
   output: {
     path: path.resolve(__dirname, 'dist'),
+    publicPath: '/',
     filename: 'bundle.js'
   },
   plugins: [
@@ -58,6 +59,7 @@ module.exports = {
   devtool: 'source-map',
   devServer: {
     contentBase: 'dist',
+    historyApiFallback: true,
     port: 9000,
   }
 };

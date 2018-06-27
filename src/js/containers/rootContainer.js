@@ -17,8 +17,8 @@ const RootContainer = () => {
             <Switch>
               <Route path='/' exact component={Home}/>
               <Route path='/beers' exact component={BeerList}/>
-              <Route path='/beers/:id' component={Beer}/>
-              <Route path='/about' component={About}/>
+              <Route path='/beer_:id([0-9]+_?[0-9]?)' exact component={Beer}/>
+              <Route path='/about' exact component={About}/>
               <Redirect to='/'/>
             </Switch>
             <Footer/>

@@ -13,7 +13,6 @@ class BeerDetails extends Component {
     }
 
     render() {
-        console.log('render', this.state.descriptionModifier, this.state.descriptionModifier === 'more', this.state.descriptionHeight)
       return (
          <div className="beer_details container" id={this.props.name.replace(' ', '_')}>
            <div className="row">
