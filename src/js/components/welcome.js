@@ -10,7 +10,7 @@ const Welcome = () => {
             in some quite interesting beers with weird ingredients like beet root. Now I usually tend to brew beer styles that I like but can't
             buy locally, or beer styles that really pose a challenge like barley wines or very low ABV beers. At the moment, my favorite beer
             styles are Saisons, (Black) IPAs, and traditional English Porters.
-            Below you find a list of all the brews that I made so far; each with a description of the ingredients
+            In the beers section you find a list of all the brews that I made so far; each with a description of the ingredients
             I used and some tasting notes. To better characterize my beers, I try to give them a meaningful
             name and design a label which reflects the color, style, and/or ingredients of the beer.
             You find the recipes of all my beers at <a className="bold" target="_blank" href="http://brewgr.com/!/yesbrewnein">brewgr.com</a>.

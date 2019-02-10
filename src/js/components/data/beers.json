@@ -1,6 +1,34 @@
 {
   "beers": [
     {
+      "id": "19",
+      "name": "Deep Space Nein",
+      "category": "Black IPA",
+      "image": "deep_space_nein.png",
+      "preview": "deep_space_nein_preview.png",
+      "details": {
+        "abv": "6.0%",
+        "ibu": "60",
+        "og": "1.057",
+        "fg": "1.011"
+      },
+      "description": "description_19.txt"
+    },
+    {
+      "id": "18",
+      "name": "Abyssus Rubeus Carda\u00ADmomum",
+      "category": "Raspberry Cardamom Table Saison",
+      "image": "abyssus_rubeus_cardamomum.png",
+      "preview": "abyssus_rubeus_cardamomum_preview.png",
+      "details": {
+        "abv": "4.0%",
+        "ibu": "23",
+        "og": "1.031",
+        "fg": "1.003"
+      },
+      "description": "description_18.txt"
+    },
+    {
       "id": "17",
       "name": "Into the Dank\u00ADness",
       "category": "Double Dry-Hopped Imperial IPA",
