@@ -1,6 +1,20 @@
 {
   "beers": [
     {
+      "id": "20",
+      "name": "Space Haze",
+      "category": "New England IPA",
+      "image": "space_haze.png",
+      "preview": "space_haze_preview.png",
+      "details": {
+        "abv": "7.2%",
+        "ibu": "55",
+        "og": "1.065",
+        "fg": "1.011"
+      },
+      "description": "description_20.txt"
+    },
+    {
       "id": "19",
       "name": "Deep Space Nein",
       "category": "Black IPA",
