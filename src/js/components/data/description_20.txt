@@ -1,8 +1,8 @@
 For my 20th beer I decided to finally brew a proper New England IPA with loads of Galaxy hops which is one of my favorites in general and especially for this style.
 It provides a lot of passion fruit and other tropical fruits, and it is also quite dank and catty sometimes. The problem with brewing New England IPAs
 at home is that the beers are very susceptible to oxidation and temperature, and have a very short shelf life. From experience with my double dry-hopped
-imperial IPA that was completely oxidized after six weeks, I decided not double dry-hop to avoid any unnecessary oxygen exposure. I decided to brew this beer at the
-end of December 2018 to have cold outside temperatures that provide a better shelf life for the beer.</br>
+imperial IPA that was completely oxidized after six weeks, I decided to not double dry-hop to avoid any unnecessary oxygen exposure. I decided to brew this
+beer at the end of December 2018 to have cold outside temperatures that provide a better shelf life for the beer.</br>
 The grist for NE IPAs is usually quite simple and protein rich to create a soft, pillowy mouthfeel and to not get in the way of the hops and yeast. I used
 82% Golden Promise malt, 9% wheat malt, 7% oat malt, and 2% flaked oats. Besides vast amounts of hops, yeast plays a huge role in making NE IPAs. After
 realizing that US-05 is not a proper yeast for this style, and S-04 is way too tangy and tard for my taste, I decided to use Imperial Yeast A38 Juice which is
@@ -21,3 +21,6 @@ The Galaxy hops provided quite a pungent but still balanced bitterness. The body
 beer had gone down to 1.011, four points below the 1.015 that I expected. My suspicion is that there was some hop creep that led the yeast to ferment more of the sugar
 during dry-hopping. I stored the beer at 11°C and there were absolutely no signs of aging or oxidation after two weeks.</br>
 I was really surprised that it was possible to brew a proper, hazy New England IPA at home without kegging and CO2 purging, and I have never been more satisfied with a beer so far.
+</br>
+</br>
+Label image credit: NASA, ESA, J.Hester
