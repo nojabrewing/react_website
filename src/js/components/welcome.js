@@ -2,6 +2,7 @@ import React from 'react'
 
 const Welcome = () => {
     return (
+      <div className="main container">
         <div className="section">
           <h3>Welcome</h3>
           <p>
@@ -17,6 +18,7 @@ const Welcome = () => {
             If you like to contact me, send a mail to <a className="bold" href="mailto:yesbrewnein@gmail.com">yesbrewnein</a> or find me on facebook.
           </p>
         </div>
+      </div>
     )
 }
 

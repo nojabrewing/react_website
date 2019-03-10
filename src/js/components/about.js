@@ -13,7 +13,7 @@ const About = () => {
               porters, IPAs, imperial stouts, or barleywines. And the best thing is that you can actually
               make these at home, and there are tons of information available about homebrewing.<br/>
               Although there are German books about brewing, I started
-              reading <a class="bold" target="_blank" href="http://howtobrew.com/intro.html">How to Brew</a> because
+              reading <a className="bold" target="_blank" href="http://howtobrew.com/intro.html">How to Brew</a> because
               Germans tend to overcomplicate things especially when explaining something technical like brewing that has
               such a long tradition in Germany. Since I don't like prebuilt things
               that I can't modify, I didn't go for the usual pre-hopped beer kit. Instead, I bought some malt

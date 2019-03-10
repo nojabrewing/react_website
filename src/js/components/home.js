@@ -1,11 +1,13 @@
 import React from 'react'
 
 import Welcome from './welcome'
+import Instagram from './instagram'
 
-const Home = () => {
+const Home = (props) => {
     return (
-        <div className="main container">
+        <div>
             <Welcome/>
+            <Instagram data={props.instagramData}/>
         </div>
     )
 }
