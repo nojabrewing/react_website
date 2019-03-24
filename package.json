@@ -1,5 +1,5 @@
 {
-  "name": "yesbrewnein",
+  "name": "noja_brewing",
   "version": "1.0.0",
   "description": "A Homebrewing Contradiction",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "webpack": "webpack"
   },
   "keywords": [],
-  "author": "yesbrewnein@gmail.com",
+  "author": "nojabrewing@gmail.com",
   "license": "ISC",
   "babel": {
     "presets": [
@@ -42,6 +42,5 @@
     "react-dom": "^16.2.0",
     "react-instafeed": "^1.0.0",
     "react-router-dom": "^4.2.2"
-  },
-  "repository": "https://github.com/yesbrewnein/react_website.git"
+  }
 }

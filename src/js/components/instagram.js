@@ -9,7 +9,7 @@ const Instagram = (props) => {
     return (
         <div className="main container">
             <div className="section">
-                <h3>@yesbrewnein</h3>
+                <h3>@nojabrewing</h3>
                 <div className="row">
                     {
                         props.data.map((item) => {

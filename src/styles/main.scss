@@ -99,8 +99,8 @@ a, a:hover, a:active, a:visited {
 }
 
 .header_icon {
-  max-height: 180px;
-  height: 180px;
+  max-height: 300px;
+  height: 300px;
   margin: 0 auto;
   width: auto;
   display: block;
@@ -429,6 +429,10 @@ h3.sub_header_text {
 
   .header {
     padding: 30px;
+  }
+
+  .header_icon {
+    margin-bottom: 0;
   }
 
   .main {
