@@ -16,7 +16,7 @@ const Header = () => {
               <a className="social_link" href="https://www.instagram.com/nojabrewing" target="_blank">
                 <img className="social_icon" src={ig_icon}/>
               </a>
-              <a className="social_link" href="https://untappd.com/yesbrewnein" target="_blank">
+              <a className="social_link" href="https://untappd.com/nojabrewing" target="_blank">
                 <img className="social_icon" src={untappd_icon}/>
               </a>
             </div>

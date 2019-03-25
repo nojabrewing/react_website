@@ -14,8 +14,8 @@ const Welcome = () => {
             In the beers section you find a list of all the brews that I made so far; each with a description of the ingredients
             I used and some tasting notes. To better characterize my beers, I try to give them a meaningful
             name and design a label which reflects the color, style, and/or ingredients of the beer.
-            You find the recipes of all my beers at <a className="bold" target="_blank" href="http://brewgr.com/!/noja-brewing">brewgr.com</a>.
-            If you like to contact me, send a mail to <a className="bold" href="mailto:nojabrewing@gmail.com">NOJA Brewing</a> or find me on facebook.
+            You find the recipes of all my beers at <a className="bold" target="_blank" href="http://brewgr.com/!/nojabrewing">brewgr.com</a>.
+            If you like to contact me, send a mail to <a className="bold" href="mailto:nojabrewing@gmail.com">NoJa Brewing</a> or find me on facebook.
           </p>
         </div>
       </div>
