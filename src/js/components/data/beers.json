@@ -1,6 +1,20 @@
 {
   "beers": [
     {
+      "id": "21",
+      "name": "Bigger on the Inside",
+      "category": "Small Pale Ale",
+      "image": "bigger_on_the_inside.png",
+      "preview": "bigger_on_the_inside_preview.png",
+      "details": {
+        "abv": "4.0%",
+        "ibu": "30",
+        "og": "1.042",
+        "fg": "1.014"
+      },
+      "description": "description_21.txt"
+    },
+    {
       "id": "20",
       "name": "Space Haze",
       "category": "New England IPA",
@@ -30,10 +44,10 @@
     },
     {
       "id": "18",
-      "name": "Abyssus Rubeus Carda\u00ADmomum",
+      "name": "Cardam\u00ADboise",
       "category": "Raspberry Cardamom Table Saison",
-      "image": "abyssus_rubeus_cardamomum.png",
-      "preview": "abyssus_rubeus_cardamomum_preview.png",
+      "image": "cardamboise.png",
+      "preview": "cardamboise_preview.png",
       "details": {
         "abv": "4.0%",
         "ibu": "23",

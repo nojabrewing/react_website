@@ -1,0 +1,27 @@
+After that big New England IPA I brewed in winter, I wanted to brew a lighter Pale Ale for spring with around 3% ABV, similar to Kernel's Table Beer or Cloudwater's
+Small Pale Ale. These low ABV beers require more body and a different grist to compensate the lack of alcohol. The beer should be light and refreshing with just
+enough malt backbone. So I created a light, protein-rich grain bill with equal parts of Golden Promise, Maris Otter, light Munich malt, wheat malt, rye malt, and
+oat malt. For the hops, I decided to use Motueka for the whirlpool, Motueka and Amarillo for dry-hopping, and a tiny FWH addition of Columbus with a target bitterness of
+30 IBU.</br>
+To get a higher finishing gravity while having the original gravity of an English Mild or Ordinary Bitter, I came up with the idea to use a very low attenuating
+English ale yeast. Choosing a yeast was quite hard as Lallemand's New England yeast was still not available to homebrewers and I didn't want to order and prepare
+a liquid yeast. I decided to use Mangrove Jack's M15 Empire Ale.
+I targeted an attenuation of roughly 60% with an OG of 1.038 to end up at about 1.015. To achieve that I mashed at 73°C to get as much unfermentable sugars as
+possible. Additionally, I also did a no-sparge mash to get a full flavored wort. I expected a mash efficiency of 65% but it was at 72% and bumped the OG to 1.042.
+I didn't want to dilute the wort to preserve as much flavor as possible.</br>
+
+After a 60-minute boil, 30-minute whirpool, and cooling, I pitched the yeast at 21°C and fermented at 19°C. Primary fermentation was quite vigorous and finished
+after 3 days. I had read the yeast might stall for some days before reaching final gravity, so I waited for another week and ramped up the temperature to 21°C.
+After that, I dry-hopped with 9 g/l of Amarillo and Motueka for 3 days, before bottling the finished beer with some priming sugar for 2.4 volumes of CO2.</br>
+
+I first tried the beer after 10 days of bottle fermentation and it was really not what I was aiming for. The beer was overcarbonated, had a yeast twang, and an
+aroma of mostly overripe red apples. Most of these things were caused by the yeast. I bottled at 1.014 and it went down to 1.008 in just two weeks and continued
+fermenting to create even more carbonation. This was mainly caused by hop creep but also the yeast seemed to be very susceptible to eating more simple sugars,
+maybe due to its inability to ferment maltotriose. This yeast also has very unfavorable flocculation and sedimentation characteristics, especially for bottle
+conditioning. It forms a nice layer at the bottom which consists mostly of large, easily agitated lumps that create ideal nucleation sites for
+carbonation when pouring the beer into a glass.</br>
+
+Once I was able to pour a bottle into a glass without getting half the yeast as well, the beer had a nice mouthfeel and body, and was also very crushable due to
+the low ABV. I also got hints of lime, lemon, and even peaches next to the always present overripe red apples. The beer stayed quite hazy for about two months.
+I first thought was caused by biotransformation, polyphenols, proteins, and hops, but it was just another trait of this very weird yeast that I will never use again.
+Luckily, a next brew day is always coming.
