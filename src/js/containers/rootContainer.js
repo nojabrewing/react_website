@@ -16,7 +16,7 @@ const instaOptions = {
   clientId: 'dc1d39e0f6f54d889f5064621b2b6a6a',
   get: 'user', // popular, user
   locationId: null,
-  resolution: 'low_resolution', // thumbnail, low_resolution, standard_resolution
+  resolution: 'standard_resolution', // thumbnail, low_resolution, standard_resolution
   sortBy: 'mostRecent', // none, least-commented, least-liked, least-recent, most-commented, most-liked, most-recent, random
   tagName: null,
   userId: 5341889246,
