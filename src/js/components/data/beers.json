@@ -1,6 +1,20 @@
 {
   "beers": [
     {
+      "id": "22",
+      "name": "Le Coing & L'Obscu\u00ADrit\u00E9",
+      "category": "Dark Quince Saison",
+      "image": "le_coing_et_l_obscurite.png",
+      "preview": "le_coing_et_l_obscurite_preview.png",
+      "details": {
+        "abv": "7.0%",
+        "ibu": "25",
+        "og": "1.053",
+        "fg": "1.000"
+      },
+      "description": "description_22.txt"
+    },
+    {
       "id": "21",
       "name": "Bigger on the Inside",
       "category": "Small Pale Ale",
