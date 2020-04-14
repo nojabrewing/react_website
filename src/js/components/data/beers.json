@@ -1,6 +1,34 @@
 {
   "beers": [
     {
+      "id": "24",
+      "name": "Halbe Treppe",
+      "category": "Kellerpils",
+      "image": "halbe_treppe.png",
+      "preview": "halbe_treppe_preview.png",
+      "details": {
+        "abv": "5.0%",
+        "ibu": "35",
+        "og": "1.051",
+        "fg": "1.012"
+      },
+      "description": "description_24.txt"
+    },
+    {
+      "id": "23",
+      "name": "Cat Pea",
+      "category": "India Pale Ale",
+      "image": "cat_pea.png",
+      "preview": "cat_pea_preview.png",
+      "details": {
+        "abv": "7.0%",
+        "ibu": "45",
+        "og": "1.066",
+        "fg": "1.012"
+      },
+      "description": "description_23.txt"
+    },
+    {
       "id": "22",
       "name": "Le Coing & L'Obscu\u00ADrit\u00E9",
       "category": "Dark Quince Saison",
