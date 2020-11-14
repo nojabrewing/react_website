@@ -1,6 +1,34 @@
 {
   "beers": [
     {
+      "id": "26",
+      "name": "Greetings from Stordal",
+      "category": "Kveik Pale Ale",
+      "image": "greetings_from_stordal.png",
+      "preview": "greetings_from_stordal_preview.png",
+      "details": {
+        "abv": "5.0%",
+        "ibu": "40",
+        "og": "1.049",
+        "fg": "1.010"
+      },
+      "description": "description_26.txt"
+    },
+    {
+      "id": "25",
+      "name": "Green Table",
+      "category": "Table Beer",
+      "image": "green_table.png",
+      "preview": "green_table_preview.png",
+      "details": {
+        "abv": "4.0%",
+        "ibu": "30",
+        "og": "1.035",
+        "fg": "1.006"
+      },
+      "description": "description_25.txt"
+    },
+    {
       "id": "24",
       "name": "Halbe Treppe",
       "category": "Kellerpils",
