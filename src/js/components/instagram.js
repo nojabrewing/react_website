@@ -12,7 +12,11 @@ const Instagram = (props) => {
                 <h3>@nojabrewing</h3>
                 <div className="row">
                     {
-                        props.data.map((item) => {
+                        props.data
+                        .filter((item, index) => {
+                            return index <= 19
+                        })
+                        .map((item) => {
                             return (
                                 <InstagramItem key={item.id} data={item} />
                             )

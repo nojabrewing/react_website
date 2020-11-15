@@ -3,6 +3,7 @@ import React, { Component } from 'react'
 import { Route, Redirect, Switch } from 'react-router-dom'
 import Header from '../components/header'
 import Footer from '../components/footer'
+import Social from '../components/social'
 import Home from '../components/home'
 import Nav from '../components/nav'
 import Beer from '../components/beer'
@@ -46,6 +47,7 @@ class RootContainer extends Component {
                   <Route path='/about' exact component={About}/>
                   <Redirect to='/'/>
                 </Switch>
+                <Social/>
                 <Footer/>
             </div>
         )

@@ -80,20 +80,18 @@ a, a:hover, a:active, a:visited {
 }
 
 .footer {
-  margin-top: 15px;
+  margin-top: 0;
   padding: 15px 30px;
-  color: #000;
-  background-color: #fff;
-  border-top: 1px solid #e5e5e5;
+  color: #fff;
 
   p {
       margin: 0;
+      text-align: center
   }
 }
 
 .header {
   font-family: $sans-serif-font;
-  background-color: #fff;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -107,14 +105,19 @@ a, a:hover, a:active, a:visited {
 }
 
 .social_link {
-  float: right;
-  margin-bottom: 15px;
-  margin-left: 15px;
+  margin: 15px;
+  display: inline-block;
 }
 
 .social_icon {
-  width: 32px;
-  height: 32px;
+  width: 48px;
+  height: 48px;
+}
+
+.social {
+  margin: 15px auto 0 auto;
+  padding: 15px 30px;
+  text-align: center;
 }
 
 h1.header_text {
@@ -159,7 +162,7 @@ h3.sub_header_text {
 .nav {
   margin-top: 15px;
   margin-bottom: 15px;
-  background-color: #fff;
+  padding: 0;
   list-style: none;
 }
 
@@ -171,6 +174,7 @@ h3.sub_header_text {
 
 .nav_bar {
   display: block;
+  text-align: center;
 }
 
 .nav_bar.collapsed {
@@ -178,10 +182,8 @@ h3.sub_header_text {
 }
 
 .nav_list {
-  padding: 7.5px 0;
+  padding: 15px 0;
   margin: 0 auto;
-  display: table;
-  table-layout: fixed;
 }
 
 .nav_item {
@@ -370,6 +372,15 @@ h3.sub_header_text {
     background: #fff;
   }
 
+  .nav_list {
+    padding: 15px 0 0 0;
+    transition: height 1.0s ease-in;
+  }
+
+  .nav_item > a {
+    color: #000;
+  }
+
   .header_icon {
     margin-bottom: 20px;
   }
@@ -394,12 +405,19 @@ h3.sub_header_text {
   }
 
   .main {
-    padding: 0 15px 30px 15px;
+    padding: 0 15px;
   }
 
   .footer {
-    margin-top: 0;
+    margin-top: 15px;
     padding: 15px 15px 0 15px;
+    color: #000;
+    background-color: #fff;
+    border-top: 1px solid #e5e5e5;
+  
+    p {
+        margin: 0;
+    }
   }
 
   .beer_details_title_container {
@@ -453,15 +471,20 @@ h3.sub_header_text {
   }
 
   .nav_list {
-    margin: 0;
-    transition: height 1.0s ease-in;
+    margin: 0 auto;
+    padding: 15px 0;
   }
 
   .nav_item {
-    text-align: left;
+    text-align: center;
+    font-size: 1.5em;
     padding-top: 7.5px;
     display: inline-block;
     font-family: $sans-serif-bold-font;
+  }
+
+  .nav_item > a {
+    color: #fff;
   }
 
   .beer_details_title_container {
@@ -469,8 +492,11 @@ h3.sub_header_text {
   }
 
   .footer {
-    margin-top: 15px;
+    margin-top: 0;
     padding: 15px 30px;
+    color: #fff;
+    background-color: transparent;
+    border-top: 0;
   }
 }
 
