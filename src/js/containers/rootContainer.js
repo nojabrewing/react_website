@@ -9,20 +9,13 @@ import Beer from '../components/beer'
 import BeerList from '../components/beer-list'
 import About from '../components/about'
 
-import { buildUrl } from 'react-instafeed'
+// instagram new user id = 17841405317387736
+// instagram new access token = IGQVJYSlF3Uk9sOHUxWlI5NzdIQi1TZAmJEcnJuWVRaaXpBSnVfdUFLNGt1Y18yRXM1WFNPRlVKQlV4RzdwVW05VWg1NDItT3VVUlo3cWF6bHh6VW5WbG5pQ2RIYlMtb04wczkwZAFVSSi1mZA1NaYnhpOFlFTlljQUxsYlln
+// url to refresh access token "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token={long-lived-access-token}"
 
-const instaOptions = {
-  accessToken: '5341889246.dc1d39e.a4cf84e1e5a7431399b877ae01e8696f',
-  clientId: 'dc1d39e0f6f54d889f5064621b2b6a6a',
-  get: 'user', // popular, user
-  locationId: null,
-  resolution: 'standard_resolution', // thumbnail, low_resolution, standard_resolution
-  sortBy: 'mostRecent', // none, least-commented, least-liked, least-recent, most-commented, most-liked, most-recent, random
-  tagName: null,
-  userId: 5341889246,
-}
-
-const instaUrl = buildUrl(instaOptions)
+const userId = 17841405317387736
+const accessToken = 'IGQVJWdDVZAVTRNNmRrYXRqOElHczgwZAGNKeHM0Q28wVFVVMS1BM29JX25zcXRIX01Gb1R2Q2taQXZAycUllRlh4ZAjhCWnNCMzluZATZAIRkpjeW9EbV9BN1o2X2k5WTBTSXVOZADBVdTln'
+const instagramFetchUrl = `https://graph.instagram.com/${userId}/media?fields=id,media_url,permalink&access_token=${accessToken}`
 
 class RootContainer extends Component {
 
@@ -35,7 +28,7 @@ class RootContainer extends Component {
 
         this.renderHome = this.renderHome.bind(this)
 
-        fetch(instaUrl)
+        fetch(instagramFetchUrl)
         .then(response => response.json())
         .then(data => this.setState({instagramData: data.data}))
         .catch(error => console.log(error))

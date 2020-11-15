@@ -40,7 +40,6 @@
     "popper.js": "^1.12.9",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-instafeed": "^1.0.0",
     "react-router-dom": "^4.2.2"
   }
 }
