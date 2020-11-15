@@ -1,7 +1,7 @@
 import React from 'react'
 
-import fb_icon from "../../images/facebook_icon_grey.svg"
-import ig_icon from "../../images/instagram_icon_grey.svg"
+import fb_icon from "../../images/facebook_icon.png"
+import ig_icon from "../../images/instagram_icon.svg"
 import untappd_icon from "../../images/untappd_icon.svg"
 import header_icon from "../../images/header_icon.png"
 

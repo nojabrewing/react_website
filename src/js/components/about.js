@@ -4,7 +4,7 @@ const About = () => {
     return (
       <div className="main container">
         <div className="section">
-            <h3>Why I began homebrewing</h3>
+            <h2>Why I began homebrewing</h2>
             <p>
               When I visited New York in 2014, I learned that beer can be more than Pilsener,
               Export, and Hefeweizen. After I tried american pale ales and vienna lagers loaded with American hops, I was

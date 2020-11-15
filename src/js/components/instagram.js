@@ -9,12 +9,12 @@ const Instagram = (props) => {
     return (
         <div className="main container">
             <div className="section">
-                <h3>@nojabrewing</h3>
+                <h2>@nojabrewing</h2>
                 <div className="row">
                     {
                         props.data
                         .filter((item, index) => {
-                            return index <= 19
+                            return index <= 8
                         })
                         .map((item) => {
                             return (

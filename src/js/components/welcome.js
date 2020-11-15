@@ -4,7 +4,7 @@ const Welcome = () => {
     return (
       <div className="main container">
         <div className="section">
-          <h3>Welcome</h3>
+          <h2>Welcome</h2>
           <p>
             Hi, my name is Max and I'm a homebrewer from Potsdam, Germany. This site is a log of my homebrewing efforts that began in late 2014.
             I started out brewing all kinds of different beer styles to get some experience with different malts, hops, and yeasts. This resulted

@@ -8,11 +8,7 @@ import header_icon from "../../images/header_icon.png"
 const Header = () => {
     return (
         <div className="header container">
-          <div className="row">
-            <div className="col-xs-8 col-sm-8 offset-xs-2 offset-sm-2 order-sm-1">
-              <img className="header_icon" src={header_icon}/>
-            </div>
-          </div>
+            <img className="header_icon" src={header_icon}/>
         </div>
     )
 }
