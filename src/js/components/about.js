@@ -6,24 +6,25 @@ const About = () => {
         <div className="section">
             <h2>Why I began homebrewing</h2>
             <p>
-              When I visited New York in 2014, I learned that beer can be more than Pilsener,
-              Export, and Hefeweizen. After I tried american pale ales and vienna lagers loaded with American hops, I was
-              instantly hooked by the rich taste in comparison to boring, bland tasting German macro beer.
-              Back in Germany, I did a bit of investigation and discovered a whole world of beer styles like brown ales,
-              porters, IPAs, imperial stouts, or barleywines. And the best thing is that you can actually
-              make these at home, and there are tons of information available about homebrewing.<br/>
+              The idea of starting to brew at home came after visiting New York in 2014. Until then, I was the typical
+              mass market Lager drinker. When I first tried Brooklyn Lager by accident, I was
+              instantly hooked by the rich taste in comparison to boring, bland tasting German macro beer. At the Brooklyn
+              Brewery, I also saw a home brew kit that somehow planted the idea of homebrewing in my head.
+              Back in Germany, I did a bit of investigation and discovered a whole world of beer styles like IPAs, Porters,
+              Imperial Stouts, or Saisons. And the best thing is that you can actually make these at home.<br/>
               Although there are German books about brewing, I started
               reading <a className="bold" target="_blank" href="http://howtobrew.com/intro.html">How to Brew</a> because
               Germans tend to overcomplicate things especially when explaining something technical like brewing that has
-              such a long tradition in Germany. Since I don't like prebuilt things
-              that I can't modify, I didn't go for the usual pre-hopped beer kit. Instead, I bought some malt
-              extracts and hops and tried to make a beer which is a bit more of my own.<br/>
-              After I made my first two badges based on malt extract, I wanted to do something more interesting
-              and so I went for all-grain. Since a Braumeister was too expensive, I build a mash-lauter-tun from
-              a camping cooler with a copper manifold. For making a yeast starter, I build a stir-plate
-              from a wooden box, a PC-case fan, and a magnet from an old hard drive. There is a lot to learn
-              from American homebrewers when it comes to equipment. At first, my brewing efficiency was about
-              60%. After adjusting the mash ph and using batch sparging with equal runnings, it is now at 70%.
+              such a long tradition in Germany. I started out with a 20 liter brew pot, an induction cooker, and a Speidel
+              fermentor which are still in use until today. After I made my first two badges based on malt extract, I wanted more
+              and switched to all-grain. For the next five years I used a converted camping cooler for mostly single-infusion mashing
+              and lautering.<br/>
+              When my shiny 3500W induction cooker broke in 2019, I decided to buy a Grainfather. Besides all the conveniences it brings,
+              the things I like most about it are the counter-flow chiller and the time I safe on brew day. Brewing with
+              it still feels like work and has a lot of manual steps that can go wrong if you are not paying attention &ndash; like I did when
+              I was using it the first time.<br/>
+              Nowadays, I brew four times a year with the seasons, i.e. IPAs and Pale Ales in sprint and autumn, Saisons or Kveik ales in
+              summer, and sometimes even a Lager in winter.
             </p>
           </div>
       </div>
