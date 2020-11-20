@@ -14,7 +14,7 @@ const Welcome = () => {
             name and design a label which reflects the color, style, and/or ingredients of the beer.
             You find the recipes of all my beers at <a className="bold" target="_blank" href="http://brewgr.com/!/nojabrewing">brewgr.com</a> and
             in the <a className="bold" target="_blank" href="https://community.grainfather.com">Grainfather</a> community.<br/>
-            If you like to contact me, send me a message on facebook or instagram. You can also rate my beers on untappd in case you get hold one
+            If you like to contact me, send me a message on facebook or instagram. You can also rate my beers on untappd in case you get hold
             of them. Cheers.
           </p>
         </div>
