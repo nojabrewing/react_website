@@ -4,9 +4,9 @@ const About = () => {
     return (
       <div className="main container">
         <div className="section">
-            <h2>Why I began homebrewing</h2>
+            <h2>Why I'm homebrewing</h2>
             <p>
-              The idea of starting to brew at home came after visiting New York in 2014. Until then, I was the typical
+              The idea of starting to brew at home came when visiting New York in 2014. Until then, I was the typical
               mass market Lager drinker. When I first tried Brooklyn Lager by accident, I was
               instantly hooked by the rich taste in comparison to boring, bland tasting German macro beer. At the Brooklyn
               Brewery, I also saw a home brew kit that somehow planted the idea of homebrewing in my head.
@@ -24,7 +24,9 @@ const About = () => {
               it still feels like work and has a lot of manual steps that can go wrong if you are not paying attention &ndash; like I did when
               I was using it the first time.<br/>
               Nowadays, I brew four times a year with the seasons, i.e. IPAs and Pale Ales in sprint and autumn, Saisons or Kveik ales in
-              summer, and sometimes even a Lager in winter.
+              summer, and sometimes even a Lager in winter. I don't have enough space for a fermentation fridge but I use an oversized
+              cooling bag that can be filled with ice bottles to control fermentation temperature. Proper yeast and the right fermentation
+              temperature are in my opinion the most important things to make good beer.
             </p>
           </div>
       </div>
