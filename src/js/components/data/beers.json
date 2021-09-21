@@ -1,6 +1,76 @@
 {
   "beers": [
     {
+      "id": "31",
+      "name": "Pas Trop Tard",
+      "category": "Saison",
+      "image": "pas_trop_tard.png",
+      "preview": "pas_trop_tard_preview.png",
+      "details": {
+        "abv": "6.3%",
+        "ibu": "32",
+        "og": "1.048",
+        "fg": "1.002"
+      },
+      "description": "description_31.txt"
+    },
+    {
+      "id": "30",
+      "name": "Fum\u00E9e Blanche",
+      "category": "Saison Grodziskie",
+      "image": "fumee_blanche.png",
+      "preview": "fumee_blanche_preview.png",
+      "details": {
+        "abv": "4.0%",
+        "ibu": "30",
+        "og": "1.028",
+        "fg": "1.000"
+      },
+      "description": "description_30.txt"
+    },
+    {
+      "id": "29",
+      "name": "\u00DCberm\u00E4\u00DFig Undurch\u00ADsichtig",
+      "category": "New England Lager",
+      "image": "uebermaessig_undurchsichtig.png",
+      "preview": "uebermaessig_undurchsichtig_preview.png",
+      "details": {
+        "abv": "5.2%",
+        "ibu": "40",
+        "og": "1.049",
+        "fg": "1.009"
+      },
+      "description": "description_29.txt"
+    },
+    {
+      "id": "28",
+      "name": "Porter-ish",
+      "category": "Small Porter with raspberries",
+      "image": "porter_ish.png",
+      "preview": "porter_ish_preview.png",
+      "details": {
+        "abv": "1.8%",
+        "ibu": "24",
+        "og": "1.027",
+        "fg": "1.014"
+      },
+      "description": "description_28.txt"
+    },
+    {
+      "id": "27",
+      "name": "Red Ryed Hand",
+      "category": "Red Rye IPA",
+      "image": "red_ryed_hand.png",
+      "preview": "red_ryed_hand_preview.png",
+      "details": {
+        "abv": "6.0%",
+        "ibu": "60",
+        "og": "1.055",
+        "fg": "1.010"
+      },
+      "description": "description_27.txt"
+    },
+    {
       "id": "26",
       "name": "Greetings from Stordal",
       "category": "Kveik Pale Ale",

@@ -1,0 +1,24 @@
+After reading <a href="https://www.brewersjournal.info/grasp-the-low-and-no-alcohol-opportunity/" target="blank" class="bold">this article</a>
+in Brewers Journal about brewing low ABV beer, I decided to brew a very small Porter with less than 2% alcohol, perfectly made for the time
+after Dry January. It should be a classic English Porter but it also needed something special to compensate the low alcohol. Fruit is often
+helpful in low ABV beers, so I came up with the idea of using raspberries during secondary fermentation.</br>
+
+Also the malt bill needed to be special because the starting gravity should only be about 1.027 with a target apparent attenuation of about 50%.
+I used 50% Maris Otter, 10% amber, 8% rye and oat malt, as well as 5% crystal rye, brown, and black malt. The hops were classic English
+Bramling Cross as a first-wort and whirlpool addition for 24 IBU. To achieve a low attenuation, the article proposes an extremely high mash
+temperature to avoid the creation of fermentable sugars.</br>
+
+I used 82°C as this created a good compromise between low amounts of maltose and
+maltotriose and high amounts of longer chained sugars and dextrins. The yeast had to be English as well to make a proper Porter.
+I used the then just released Lallemand Verdant IPA yeast, a close cousin of London Ale III. Although it might create a higher attenuation
+then e.g. Lallemand Windsor which cannot ferment maltotriose, I cannot think of a better English yeast.</br>
+
+The yeast really struggled with the wort and it took almost two days to see first signs of fermentation. It then continued very slowly for
+a couple of days. After seven days, it had completely stopped. I waited a few more days for the yeast to finish up her work before adding
+frozen raspberries for another week. I bottled the beer at a gravity of 1.016.</br>
+
+I first tried the finished beer after a week and it was great. It was malty and roasty with a bit of that weird smoke-ish character from the
+brown malt and subtle raspberry notes in the background. The mouthfeel and taste were suprisingly full and good for 1.5% ABV, and there was
+not a hint of unfermented wort. Unfortunately, the beer became increasingly overcarbonated after roughly six weeks, and I had to dump the last
+15 bottles in fear of bottle bombs. The reason for this continued fermentation was probably a micro infection with yeast or bacteria that
+slowly broke down and ate all the residual sugars and dextrins. A pasteurization of the beer was advised in the article to avoid such things. 
