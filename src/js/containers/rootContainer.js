@@ -15,7 +15,8 @@ import About from '../components/about'
 // url to refresh access token "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token={long-lived-access-token}"
 
 const userId = 17841405317387736
-const accessToken = 'IGQVJWdDVZAVTRNNmRrYXRqOElHczgwZAGNKeHM0Q28wVFVVMS1BM29JX25zcXRIX01Gb1R2Q2taQXZAycUllRlh4ZAjhCWnNCMzluZATZAIRkpjeW9EbV9BN1o2X2k5WTBTSXVOZADBVdTln'
+// last requested 2021 September 21
+const accessToken = 'IGQVJXRUNBME4tZAmRWckhGVWN4Y1ZAYUkhISDBhN2phS01WNXdZAM25IdW15YUQxR0xVS1ZAjbGw0c19rLXZACTFZAxUzZAmbmx1NlkyTkp6QmFEQWN6RUMxY3NyOXZAxM21nYTAwREJ6TnF3'
 const instagramFetchUrl = `https://graph.instagram.com/${userId}/media?fields=id,media_url,permalink&access_token=${accessToken}`
 
 class RootContainer extends Component {
